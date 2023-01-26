@@ -1,0 +1,11 @@
+style: Hot Pink
+font: Ash
+image-size: 650 x 150
+font-size: 120 (change this if the text doesnt fit the image size)
+alignment: center
+shadow-type: no shadow
+shadow-offset: none
+text-gradient: deep sea
+outline-gradient: deep sea
+outline-thickness: 5
+overlay-pattern: top right pattern option (stars)
